@@ -1,13 +1,13 @@
 //© 2017 Nevit Dilmen CC4.0 Attribution, Share-alike
 
 $fn=300;
-heightt=90; //mm
+heightt=90; //mm Object height
 rotation=360; //degree
-thickness=0.8; //mm
+thickness=0.8; //mm Object wall thichness. 
 diameter=60; //Polygon diameter mm
-base=2; // mm
-space=1.5; //space between two shapes mm larger for low poly 2.6 for poly=3
-poly =6; // Number of polygon sides
+base=2; // mm Base thickness
+space=1.5; //this is about friction. Space between two shapes in mm. Larger for low poly 2.6 for poly=3
+poly =6; // Number of polygon sides. Should be an integer equal or larger than 3. 
 
 // External shape
 difference () {
