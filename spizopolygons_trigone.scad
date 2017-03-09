@@ -1,13 +1,13 @@
 //© 2017 Nevit Dilmen CC4.0 Attribution, Share-alike
 
 $fn=300;
-heightt=50; //mm
-rotation=180; //degree
-thickness=0.5; //mm
-diameter=30; //Polygon diameter mm
+heightt=90; //mm
+rotation=360; //degree
+thickness=0.8; //mm
+diameter=60; //Polygon diameter mm
 base=2; // mm
-space=2.6; //space between two shapes mm larger for low poly 2.6 for poly=3
-poly =3; // Number of polygon sides
+space=1.5; //space between two shapes mm larger for low poly 2.6 for poly=3
+poly =6; // Number of polygon sides
 
 // External shape
 difference () {
