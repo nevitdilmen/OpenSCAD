@@ -1,4 +1,5 @@
 echo ("Copyright 2017 Nevit Dilmen");
+#Ballbearings for 3D printing 
 
 $fn=50;
 radius= 16.3;  
