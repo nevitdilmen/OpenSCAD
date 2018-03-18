@@ -1,3 +1,6 @@
+//2017 Nevit Dilmen 
+//Ball bearings
+
 spheres = 9;
 $fn = 100;
 outerDiameter = 50;
